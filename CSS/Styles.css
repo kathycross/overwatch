@@ -1,0 +1,22 @@
+h1{
+    color: purple;
+    text-align: center;
+    
+}
+.colum{
+    color: red;
+    height: 300px;
+    width: 31%;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black;
+
+}  
+.photo{
+    height: 100px;
+    width: 100px;
+}
+.photo1 {
+    height: 100px;
+    width: 100px;
+}
